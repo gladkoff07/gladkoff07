@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Evgeny Gladkov" width="22px" src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram" />][telegram]
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/gladkoff07)
 
 <br />
 
@@ -39,6 +39,3 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gladkoff07&show_icons=true" />
 </details>
-
-
-[telegram]: https://t.me/gladkoff07
