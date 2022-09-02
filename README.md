@@ -21,13 +21,13 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 
 ### In the process of studying:
 
 ![React_Router](https://img.shields.io/badge/React_Router-111111?style=for-the-badge&logo=ReactRouter)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
 <br />
