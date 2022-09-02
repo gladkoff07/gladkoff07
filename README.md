@@ -29,6 +29,7 @@
 
 ![React_Router](https://img.shields.io/badge/React_Router-111111?style=for-the-badge&logo=ReactRouter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <br />
 <br />
